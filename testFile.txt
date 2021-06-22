@@ -1,2 +1,2 @@
 This is just a simple text file.
-The first devOps practical based task.
+The text file has been modified for completing the assignment task of Xoriant.
